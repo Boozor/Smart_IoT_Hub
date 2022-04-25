@@ -1,4 +1,4 @@
-package ece448.iot_hub;
+/* package ece448.iot_hub;
 
 import java.util.ArrayList;
 
@@ -379,4 +379,4 @@ public class ResourceTest {
 
 	}
 
-}
+} */

@@ -1,4 +1,4 @@
-package ece448.iot_hub;
+/* package ece448.iot_hub;
 
 import static org.junit.Assert.*;
 
@@ -185,4 +185,4 @@ public class PlugResourceTests {
 
 	}
 
-}
+} */
